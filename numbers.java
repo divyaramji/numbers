@@ -1,3 +1,3 @@
-int a =10;
+int a =48;
 int b = 18;
 int c = a+b;
